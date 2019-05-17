@@ -1,0 +1,17 @@
+.header {
+    display:flex;
+    flex-flow: row nowrap;
+    justify-content: left;
+    width: 50%;
+    
+}
+
+.main {
+    border: 2px solid black;
+}
+
+.headerItem {
+    margin: 10px;
+    font-size: 10px;
+    font-style: oblique;
+}
